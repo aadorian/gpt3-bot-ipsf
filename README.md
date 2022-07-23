@@ -1,3 +1,3 @@
-//tsc bot.ts --esModuleInterop
-
-    // @ts-ignore
+# OpenAIBot
+Video:
+https://youtu.be/moKgsurDWFs
